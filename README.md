@@ -1,2 +1,2 @@
 # psychic-chainsaw
-learning the ropes of creating Github and creating a repository
+learning the ropes of using Github and creating a repository
